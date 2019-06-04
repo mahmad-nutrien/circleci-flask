@@ -1,1 +1,1 @@
-Basic Flask app for CircleCI test
+Basic Flask app for CircleCI CI/CD
