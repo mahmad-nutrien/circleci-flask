@@ -1,1 +1,1 @@
-Basic Flask app for CircleCI CI/CD
+Basic Flask app for a CircleCI CI/CD Pipeline
